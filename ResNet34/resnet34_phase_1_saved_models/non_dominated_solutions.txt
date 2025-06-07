@@ -1,0 +1,300 @@
+Non-Dominated Solution 1:
+  Thresholds: Th1 = -0.049968, Th2 = 0.049937
+  Validation Accuracy: 0.1070
+  Test Accuracy: 0.1041
+  Non-Zero Weights: 376387
+
+Non-Dominated Solution 2:
+  Thresholds: Th1 = -0.004117, Th2 = 0.005324
+  Validation Accuracy: 0.9945
+  Test Accuracy: 0.9437
+  Non-Zero Weights: 16775784
+
+Non-Dominated Solution 3:
+  Thresholds: Th1 = -0.023831, Th2 = 0.023282
+  Validation Accuracy: 0.9360
+  Test Accuracy: 0.8845
+  Non-Zero Weights: 4116537
+
+Non-Dominated Solution 4:
+  Thresholds: Th1 = -0.015098, Th2 = 0.014590
+  Validation Accuracy: 0.9875
+  Test Accuracy: 0.9371
+  Non-Zero Weights: 8546716
+
+Non-Dominated Solution 5:
+  Thresholds: Th1 = -0.009898, Th2 = 0.010243
+  Validation Accuracy: 0.9945
+  Test Accuracy: 0.9436
+  Non-Zero Weights: 12069859
+
+Non-Dominated Solution 6:
+  Thresholds: Th1 = -0.005327, Th2 = 0.005782
+  Validation Accuracy: 0.9950
+  Test Accuracy: 0.9440
+  Non-Zero Weights: 15988690
+
+Non-Dominated Solution 7:
+  Thresholds: Th1 = -0.011758, Th2 = 0.011940
+  Validation Accuracy: 0.9945
+  Test Accuracy: 0.9435
+  Non-Zero Weights: 10676811
+
+Non-Dominated Solution 8:
+  Thresholds: Th1 = -0.029279, Th2 = 0.028917
+  Validation Accuracy: 0.6840
+  Test Accuracy: 0.6643
+  Non-Zero Weights: 2463810
+
+Non-Dominated Solution 9:
+  Thresholds: Th1 = -0.027941, Th2 = 0.027421
+  Validation Accuracy: 0.7860
+  Test Accuracy: 0.7669
+  Non-Zero Weights: 2814206
+
+Non-Dominated Solution 10:
+  Thresholds: Th1 = -0.035658, Th2 = 0.036833
+  Validation Accuracy: 0.2290
+  Test Accuracy: 0.2184
+  Non-Zero Weights: 1257819
+
+Non-Dominated Solution 11:
+  Thresholds: Th1 = -0.013782, Th2 = 0.014015
+  Validation Accuracy: 0.9925
+  Test Accuracy: 0.9415
+  Non-Zero Weights: 9203161
+
+Non-Dominated Solution 12:
+  Thresholds: Th1 = -0.037478, Th2 = 0.039857
+  Validation Accuracy: 0.1485
+  Test Accuracy: 0.1442
+  Non-Zero Weights: 1011403
+
+Non-Dominated Solution 13:
+  Thresholds: Th1 = -0.031060, Th2 = 0.030784
+  Validation Accuracy: 0.5890
+  Test Accuracy: 0.5740
+  Non-Zero Weights: 2072762
+
+Non-Dominated Solution 14:
+  Thresholds: Th1 = -0.032969, Th2 = 0.033086
+  Validation Accuracy: 0.4895
+  Test Accuracy: 0.4852
+  Non-Zero Weights: 1698227
+
+Non-Dominated Solution 15:
+  Thresholds: Th1 = -0.026535, Th2 = 0.025999
+  Validation Accuracy: 0.8615
+  Test Accuracy: 0.8295
+  Non-Zero Weights: 3212084
+
+Non-Dominated Solution 16:
+  Thresholds: Th1 = -0.029946, Th2 = 0.029494
+  Validation Accuracy: 0.6375
+  Test Accuracy: 0.6111
+  Non-Zero Weights: 2321703
+
+Non-Dominated Solution 17:
+  Thresholds: Th1 = -0.031053, Th2 = 0.030921
+  Validation Accuracy: 0.5655
+  Test Accuracy: 0.5567
+  Non-Zero Weights: 2061370
+
+Non-Dominated Solution 18:
+  Thresholds: Th1 = -0.024610, Th2 = 0.023949
+  Validation Accuracy: 0.9220
+  Test Accuracy: 0.8749
+  Non-Zero Weights: 3853888
+
+Non-Dominated Solution 19:
+  Thresholds: Th1 = -0.033801, Th2 = 0.034219
+  Validation Accuracy: 0.3645
+  Test Accuracy: 0.3685
+  Non-Zero Weights: 1548665
+
+Non-Dominated Solution 20:
+  Thresholds: Th1 = -0.025343, Th2 = 0.024963
+  Validation Accuracy: 0.8895
+  Test Accuracy: 0.8532
+  Non-Zero Weights: 3563141
+
+Non-Dominated Solution 21:
+  Thresholds: Th1 = -0.031386, Th2 = 0.031554
+  Validation Accuracy: 0.4990
+  Test Accuracy: 0.4984
+  Non-Zero Weights: 1972028
+
+Non-Dominated Solution 22:
+  Thresholds: Th1 = -0.027134, Th2 = 0.026724
+  Validation Accuracy: 0.8350
+  Test Accuracy: 0.8016
+  Non-Zero Weights: 3021509
+
+Non-Dominated Solution 23:
+  Thresholds: Th1 = -0.035345, Th2 = 0.035916
+  Validation Accuracy: 0.2675
+  Test Accuracy: 0.2621
+  Non-Zero Weights: 1327971
+
+Non-Dominated Solution 24:
+  Thresholds: Th1 = -0.034395, Th2 = 0.035085
+  Validation Accuracy: 0.3430
+  Test Accuracy: 0.3314
+  Non-Zero Weights: 1446890
+
+Non-Dominated Solution 25:
+  Thresholds: Th1 = -0.026162, Th2 = 0.025597
+  Validation Accuracy: 0.8800
+  Test Accuracy: 0.8403
+  Non-Zero Weights: 3329578
+
+Non-Dominated Solution 26:
+  Thresholds: Th1 = -0.031343, Th2 = 0.031081
+  Validation Accuracy: 0.5340
+  Test Accuracy: 0.5168
+  Non-Zero Weights: 2016475
+
+Non-Dominated Solution 27:
+  Thresholds: Th1 = -0.034973, Th2 = 0.035736
+  Validation Accuracy: 0.3055
+  Test Accuracy: 0.3031
+  Non-Zero Weights: 1365435
+
+Non-Dominated Solution 28:
+  Thresholds: Th1 = -0.042823, Th2 = 0.044294
+  Validation Accuracy: 0.1425
+  Test Accuracy: 0.1488
+  Non-Zero Weights: 643283
+
+Non-Dominated Solution 29:
+  Thresholds: Th1 = -0.027472, Th2 = 0.026938
+  Validation Accuracy: 0.8265
+  Test Accuracy: 0.7896
+  Non-Zero Weights: 2942578
+
+Non-Dominated Solution 30:
+  Thresholds: Th1 = -0.029427, Th2 = 0.029202
+  Validation Accuracy: 0.6510
+  Test Accuracy: 0.6355
+  Non-Zero Weights: 2415634
+
+Non-Dominated Solution 31:
+  Thresholds: Th1 = -0.014658, Th2 = 0.014539
+  Validation Accuracy: 0.9925
+  Test Accuracy: 0.9434
+  Non-Zero Weights: 8719252
+
+Non-Dominated Solution 32:
+  Thresholds: Th1 = -0.043859, Th2 = 0.045690
+  Validation Accuracy: 0.1315
+  Test Accuracy: 0.1386
+  Non-Zero Weights: 579828
+
+Non-Dominated Solution 33:
+  Thresholds: Th1 = -0.033469, Th2 = 0.033855
+  Validation Accuracy: 0.4365
+  Test Accuracy: 0.4313
+  Non-Zero Weights: 1600746
+
+Non-Dominated Solution 34:
+  Thresholds: Th1 = -0.029664, Th2 = 0.029342
+  Validation Accuracy: 0.6335
+  Test Accuracy: 0.6192
+  Non-Zero Weights: 2371488
+
+Non-Dominated Solution 35:
+  Thresholds: Th1 = -0.035136, Th2 = 0.035952
+  Validation Accuracy: 0.2765
+  Test Accuracy: 0.2754
+  Non-Zero Weights: 1341228
+
+Non-Dominated Solution 36:
+  Thresholds: Th1 = -0.034588, Th2 = 0.035015
+  Validation Accuracy: 0.3080
+  Test Accuracy: 0.3025
+  Non-Zero Weights: 1436022
+
+Non-Dominated Solution 37:
+  Thresholds: Th1 = -0.025673, Th2 = 0.025209
+  Validation Accuracy: 0.8945
+  Test Accuracy: 0.8545
+  Non-Zero Weights: 3468388
+
+Non-Dominated Solution 38:
+  Thresholds: Th1 = -0.029427, Th2 = 0.028915
+  Validation Accuracy: 0.6775
+  Test Accuracy: 0.6547
+  Non-Zero Weights: 2445054
+
+Non-Dominated Solution 39:
+  Thresholds: Th1 = -0.033516, Th2 = 0.034001
+  Validation Accuracy: 0.3925
+  Test Accuracy: 0.3926
+  Non-Zero Weights: 1587251
+
+Non-Dominated Solution 40:
+  Thresholds: Th1 = -0.033558, Th2 = 0.034058
+  Validation Accuracy: 0.3725
+  Test Accuracy: 0.3737
+  Non-Zero Weights: 1579869
+
+Non-Dominated Solution 41:
+  Thresholds: Th1 = -0.049968, Th2 = 0.049872
+  Validation Accuracy: 0.1000
+  Test Accuracy: 0.1036
+  Non-Zero Weights: 377341
+
+Non-Dominated Solution 42:
+  Thresholds: Th1 = -0.037478, Th2 = 0.040153
+  Validation Accuracy: 0.1400
+  Test Accuracy: 0.1381
+  Non-Zero Weights: 1000667
+
+Non-Dominated Solution 43:
+  Thresholds: Th1 = -0.033099, Th2 = 0.033311
+  Validation Accuracy: 0.4685
+  Test Accuracy: 0.4742
+  Non-Zero Weights: 1670691
+
+Non-Dominated Solution 44:
+  Thresholds: Th1 = -0.023831, Th2 = 0.023556
+  Validation Accuracy: 0.9245
+  Test Accuracy: 0.8746
+  Non-Zero Weights: 4071847
+
+Non-Dominated Solution 45:
+  Thresholds: Th1 = -0.027941, Th2 = 0.027395
+  Validation Accuracy: 0.7920
+  Test Accuracy: 0.7698
+  Non-Zero Weights: 2817383
+
+Non-Dominated Solution 46:
+  Thresholds: Th1 = -0.027134, Th2 = 0.026855
+  Validation Accuracy: 0.8160
+  Test Accuracy: 0.7900
+  Non-Zero Weights: 3005439
+
+Non-Dominated Solution 47:
+  Thresholds: Th1 = -0.033219, Th2 = 0.033311
+  Validation Accuracy: 0.4460
+  Test Accuracy: 0.4438
+  Non-Zero Weights: 1659934
+
+Non-Dominated Solution 48:
+  Thresholds: Th1 = -0.033516, Th2 = 0.033942
+  Validation Accuracy: 0.4150
+  Test Accuracy: 0.4164
+  Non-Zero Weights: 1591080
+
+Non-Dominated Solution 49:
+  Thresholds: Th1 = -0.033105, Th2 = 0.033348
+  Validation Accuracy: 0.4600
+  Test Accuracy: 0.4691
+  Non-Zero Weights: 1667566
+
+Non-Dominated Solution 50:
+  Thresholds: Th1 = -0.033443, Th2 = 0.033936
+  Validation Accuracy: 0.4190
+  Test Accuracy: 0.4183
+  Non-Zero Weights: 1597751
+

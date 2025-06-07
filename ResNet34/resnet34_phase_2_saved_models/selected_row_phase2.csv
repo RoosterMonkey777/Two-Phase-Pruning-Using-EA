@@ -1,0 +1,2 @@
+Solution,Th1,Th2,Optimization Acc (%),Validation Acc (%),Test Acc (%),#Non-Zero Weights,#Zero Weights
+7,-0.015098347958832947,0.014589800855737217,98.9,98.75,93.71000000000001,8546716,12743086
